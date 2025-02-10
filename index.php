@@ -6,7 +6,7 @@
     <title>PHP app</title>
 </head>
 <body>
-    <?
+    <?php
         echo "Hello World";
     
     ?>
